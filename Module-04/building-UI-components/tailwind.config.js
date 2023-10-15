@@ -25,6 +25,8 @@ module.exports = {
       'Neutral/950': '#0A0A0A',
       'Neutral/1000': '#000000',
     },
+
+
     extend: {},
   },
   plugins: [],
